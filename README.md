@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ytimg.com/vi/ACaT1Gfhe6I/maxresdefault.jpg)
+![MasterHead](https://i.ytimg.com/vi/ACaT1Gfhe6I/maxresdefault.jpg)
 
 <h1 align="center">Hi 👋, I'm Tural</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
