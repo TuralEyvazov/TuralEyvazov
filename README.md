@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tural</h1>
+<h1 align="center"><em align="center">Hi 👋! My name is Tural and I'm a Front-End Developer from Azerbaijan</em></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TuralEyvazov&label=Profile%20views&color=0e75b6&style=flat" alt="TuralEyvazov" /> </p>
 
 </div><h3 align="left">Connect with me:</h3>
